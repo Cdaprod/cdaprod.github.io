@@ -1,0 +1,14 @@
+- name: WebDev & DevOps
+  description: This category focuses on web development and DevOps practices, covering topics such as frontend and backend development, version control, continuous integration, and continuous deployment.
+
+- name: Code & Languages
+  description: Explore various programming languages, their syntax, features, and best practices. This category includes popular languages like Python, JavaScript, Ruby, and more.
+
+- name: Linux & Command Line
+  description: Dive into the world of Linux operating systems and command-line interfaces, covering basic to advanced usage, shell scripting, and system administration tasks.
+
+- name: Hacking & Bounties
+  description: Learn about ethical hacking, penetration testing, and bug bounty programs. This category focuses on discovering and reporting security vulnerabilities and staying updated with the latest cybersecurity trends.
+
+- name: Data Science & AI
+  description: Discover the fascinating realm of data science and artificial intelligence, including topics such as machine learning, deep learning, natural language processing, and data visualization.
