@@ -2,16 +2,20 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/Cdaprod"
 
 - type: twitter
   icon: "fab fa-twitter"
+  url: "https://x.com/cdasmktcda
 
 - type: email
   icon: "fas fa-envelope"
+  url: "cdaprod@cdaprod.dev"
   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
+  url: "https://feedly.com/i/subscription/feed/https://blog.min.io/author/david-cannan/rss/"
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
