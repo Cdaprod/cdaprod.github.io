@@ -1,14 +1,27 @@
-- name: WebDev & DevOps
-  description: This category focuses on web development and DevOps practices, covering topics such as frontend and backend development, version control, continuous integration, and continuous deployment.
+- name: DevOps & GitOps
+  description: >
+    Dive into the world of DevOps and GitOps, where automation meets collaboration. Discover best practices for continuous integration, deployment strategies, and infrastructure as code, empowering you to streamline your development workflow.
 
 - name: Code & Languages
-  description: Explore various programming languages, their syntax, features, and best practices. This category includes popular languages like Python, JavaScript, Ruby, and more.
+  description: >
+    Unlock the power of programming languages! Explore essential coding concepts, syntax, and best practices across popular languages like Python, JavaScript, and Ruby. Perfect for beginners and seasoned developers alike.
 
 - name: Linux & Command Line
-  description: Dive into the world of Linux operating systems and command-line interfaces, covering basic to advanced usage, shell scripting, and system administration tasks.
+  description: >
+    Master the command line and Linux environment. From basic commands to advanced shell scripting, this category equips you with the skills to navigate and control your systems with confidence.
 
 - name: Hacking & Bounties
-  description: Learn about ethical hacking, penetration testing, and bug bounty programs. This category focuses on discovering and reporting security vulnerabilities and staying updated with the latest cybersecurity trends.
+  description: >
+    Venture into ethical hacking and cybersecurity. Learn how to identify vulnerabilities, engage in penetration testing, and participate in bug bounty programs to protect digital assets and stay ahead of threats.
 
 - name: Data Science & AI
-  description: Discover the fascinating realm of data science and artificial intelligence, including topics such as machine learning, deep learning, natural language processing, and data visualization.
+  description: >
+    Embark on a journey through data science and artificial intelligence. Delve into machine learning, deep learning, and data visualization techniques that turn raw data into actionable insights.
+
+- name: System Design
+  description: >
+    Explore the fundamentals of system design. Understand architectural patterns, scalability, and performance optimization to create resilient and efficient systems that meet real-world demands.
+
+- name: Stoic Philosophy
+  description: >
+    Discover the wisdom of Stoic philosophy and its practical applications in modern life. Learn from the teachings of Marcus Aurelius, Seneca, and Epictetus to cultivate resilience, self-discipline, and a balanced perspective in your personal and professional journey.
