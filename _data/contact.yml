@@ -1,4 +1,4 @@
-#  The contact options.
+# The contact options.
 
 - type: github
   icon: "fab fa-github"
@@ -6,27 +6,28 @@
 
 - type: twitter
   icon: "fab fa-twitter"
-  url: "https://x.com/cdasmktcda
+  url: "https://x.com/cdasmktcda"  # Added the missing closing quotation mark.
 
 - type: email
   icon: "fas fa-envelope"
-  url: "cdaprod@cdaprod.dev"
-  noblank: true # open link in current tab
+  url: "mailto:cdaprod@cdaprod.dev"  # Changed to mailto: format for email links.
+  noblank: true  # Open link in the current tab.
 
 - type: rss
   icon: "fas fa-rss"
   url: "https://feedly.com/i/subscription/feed/https://blog.min.io/author/david-cannan/rss/"
   noblank: true
-# Uncomment and complete the url below to enable more contact options
-#
+
+# Uncomment and complete the URL below to enable more contact options.
+
 # - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
+#   icon: 'fab fa-mastodon'   # Icons powered by <https://fontawesome.com/>
+#   url: ''  # Fill with your Mastodon account page, rel="me" will be applied for verification.
+
 - type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://linkedin.com/cdasmkt'                  # Fill with your Linkedin homepage
-#
+  icon: 'fab fa-linkedin'  # Icons powered by <https://fontawesome.com/>
+  url: 'https://linkedin.com/in/cdasmkt'
+
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+#   url: ''  # Fill with your Stack Overflow homepage.
