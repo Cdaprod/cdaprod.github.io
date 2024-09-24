@@ -18,12 +18,12 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: David Cannan's Portfolio
+title: Cdaprod's GitHub Blog
 
-tagline: Software Developer, Embedded Engineer, and Cybersecurity Enthusiast
+tagline: Software Developer, Embedded Engineer, and Stoic Philosopher
 
 description: >- 
-  A personal portfolio showcasing the work of David Cannan, a self-taught software developer, embedded engineer, and cybersecurity enthusiast from Douglasville, Georgia.
+  A personal portfolio showcasing articles of David Cannan, an autodidactic Software Engineer, DevOps Architect, and Solutions Architect from Douglasville, Georgia.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://github.com/cdaprod/cdaprod.github.io"
@@ -35,41 +35,25 @@ twitter:
   username: cdasmktcda
 
 social:
-  name: David Cannan
-  email: davidacannan@gmail.com
-  links:
-    - https://twitter.com/davidcannan
-    - https://github.com/davidcannan
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
-
-github:
-  username: cdaprod # change to your github username
-
-twitter:
-  username: cdasmktcda # change to your twitter username
-
-social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: David Cannan
-  email: davidacannan@gmail.com # change to your email address
+  email: cdaprod@cdaprod.dev # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/cdasmktcda # change to your twitter homepage
+    - https://x.com/cdasmktcda # change to your twitter homepage
     - https://github.com/cdaprod # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/davidacannan
     - https://www.linkedin.com/in/cdasmkt
 
-google_site_verification: # fill in to your verification string
+google_site_verification: oqRxv4BEl71VCBPq1j_jeK5Hn_rrOLRzpEvMvpBHbU4
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-73TELS8253 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -102,32 +86,24 @@ avatar: "/commons/avatar.jpg"
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # The active options are as follows:
-  disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-  # utterances settings › https://utteranc.es/
-  utterances:
-    repo: cdaprod/cdaprod.github.io# <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
-  # Giscus options › https://giscus.app
+  active: "giscus" # Enable Giscus for comments
   giscus:
-    repo: cdaprod/cdaprod.github.io # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
-    lang: en # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    repo: "Cdaprod/cdaprod.github.io" 
+    repo_id: "R_kgDOJdOG4w" 
+    category: "General" 
+    category_id: "DIC_kwDOJdOG484CiwbS" 
+    mapping: "pathname" # Default is 'pathname'
+    input_position: "bottom" # Position of the comments
+    lang: "en" # Language for the comments
+    reactions_enabled: true # Enable reactions
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # boolean, keep empty means false
+    enabled: true # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development|production]
+    env: production # [development|production]
 
 pwa:
   enabled: true # the option for PWA feature
