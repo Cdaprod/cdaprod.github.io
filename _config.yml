@@ -47,13 +47,13 @@ social:
     - https://www.facebook.com/davidacannan
     - https://www.linkedin.com/in/cdasmkt
 
-google_site_verification: google79964d2cf95beccc
+google_site_verification: 'google79964d2cf95beccc'
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-73TELS8253 # fill in your Google Analytics ID
+  id: 'G-73TELS8253' # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
